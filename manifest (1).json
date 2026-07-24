@@ -1,0 +1,36 @@
+{
+  "name": "Studio — basi musicali",
+  "short_name": "Studio",
+  "description": "Genera e costruisci basi musicali di ogni genere: batteria, basso, accordi, melodia, voce, export wav e midi.",
+  "lang": "it",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#17161A",
+  "theme_color": "#17161A",
+  "categories": [
+    "music",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "./icona-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icona-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icona-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
